@@ -5,7 +5,7 @@
     }
 }
 
-// for Desktop and Lap[tops
+// for Desktop and Laptops
 @include mediaLg {
     .projects {
         grid-template-columns: repeat(3, 1fr); // showing 3 image in Medium screen
